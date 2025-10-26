@@ -1,0 +1,2 @@
+2025-10-25 17:35:17,316 - INFO - Opened URL: https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC in chrome (headless=False)
+2025-10-25 17:35:17,542 - ERROR - Test 'test_login_csv' failed. Screenshot saved at reports/screenshots/test_login_csv_20251025_173517.png

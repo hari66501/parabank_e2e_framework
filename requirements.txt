@@ -1,0 +1,7 @@
+selenium==4.10.0
+pytest==7.4.0
+pytest-xdist
+pytest-rerunfailures
+pytest-html
+webdriver-manager
+python-dotenv

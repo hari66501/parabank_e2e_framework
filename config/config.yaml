@@ -1,0 +1,8 @@
+browser: chrome
+base_url: https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC
+headless: false
+implicit_wait: 10
+driver_path: ./drivers/chromedriver
+# UI Credentials
+username: john
+password: demo
